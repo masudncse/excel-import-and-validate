@@ -1,4 +1,4 @@
-# excel-import-and-validate
+# Excel Import & Validate Data
 
 A modern web application for importing, validating, and visualizing Excel data with row-level error reporting. Built with Laravel (backend) and Next.js (frontend), styled with Tailwind CSS, and featuring a beautiful, animated UI.
 
